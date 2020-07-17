@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643357767250",
+    "firebase_url": "https://workservicesapp.firebaseio.com",
+    "project_id": "workservicesapp",
+    "storage_bucket": "workservicesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643357767250:android:a197d34331cd3f014b518b",
+        "android_client_info": {
+          "package_name": "com.servicesapp.workservices"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643357767250-jqvf1k1ubbp0kmv4quetm5rt1ldl17q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.servicesapp.workservices",
+            "certificate_hash": "e716a331c54f062b9cd5597da9c380c8a7255316"
+          }
+        },
+        {
+          "client_id": "643357767250-v01vav91vfikqfo006g1uri1fs7okfsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcVddPE9VZD0aHzDFHp9xRFdNYr7Tg-cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643357767250-v01vav91vfikqfo006g1uri1fs7okfsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
